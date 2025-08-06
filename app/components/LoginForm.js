@@ -77,9 +77,7 @@ function LoginForm({ adminId, posterId }) {
         <p className="text-2xl text-blue-700">
           Confirm your own account before
         </p>
-        <p className="text-2xl text-[#e89a4c]">
-          VIEW / REMOVE <span className="text-blue-700">review</span>
-        </p>
+       
       </div>
 
       <div className="mt-5">
